@@ -1,6 +1,6 @@
 # 🌟 Bem-vindo ao meu GitHub!  
 
-Oi, eu sou a **Estevão Vasconcelos**!  
+Oi, eu sou o **Estevão Vasconcelos**!  
 💻 Estudante de **Análise e Desenvolvimento de Sistemas** (2º período)  
 🚀 Em busca da minha primeira oportunidade de estágio onde eu possa evoluir e aplicar meus conhecimentos 
 
