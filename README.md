@@ -44,7 +44,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/estev%C3%A3o-vasconcelos-288390339/"> 
+<a href="https://www.linkedin.com/in/estevão-ferreira-288390339"> 
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/> 
 </a> &nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="mailto:estevaofvasc@gmail.com"> 
